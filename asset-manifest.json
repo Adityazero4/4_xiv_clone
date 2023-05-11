@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/xiv_clone/static/css/main.e6c13ad2.css",
+    "main.js": "/xiv_clone/static/js/main.872e33fb.js",
+    "static/js/787.f8be6cd2.chunk.js": "/xiv_clone/static/js/787.f8be6cd2.chunk.js",
+    "static/media/ai.png": "/xiv_clone/static/media/ai.e8eb66343266a56a5b4c.png",
+    "static/media/choices.png": "/xiv_clone/static/media/choices.e0b53b689fd9881066ec.png",
+    "static/media/cloud.png": "/xiv_clone/static/media/cloud.c9e7f7935fdb70b46c78.png",
+    "static/media/innovate.jpg": "/xiv_clone/static/media/innovate.8bc14b86ce6eff22c3cb.jpg",
+    "index.html": "/xiv_clone/index.html",
+    "main.e6c13ad2.css.map": "/xiv_clone/static/css/main.e6c13ad2.css.map",
+    "main.872e33fb.js.map": "/xiv_clone/static/js/main.872e33fb.js.map",
+    "787.f8be6cd2.chunk.js.map": "/xiv_clone/static/js/787.f8be6cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.872e33fb.js"
+  ]
+}
